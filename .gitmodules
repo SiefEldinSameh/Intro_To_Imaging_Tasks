@@ -1,3 +1,15 @@
 [submodule "MPR_Viewer"]
 	path = MPR_Viewer
 	url = https://github.com/SiefEldinSameh/MPR_Viewer.git
+[submodule "Football_Players_Heatmap"]
+	path = Football_Players_Heatmap
+	url = https://github.com/SiefEldinSameh/Players_Heatmap.git
+[submodule "Dicom_Viewer"]
+	path = Dicom_Viewer
+	url = https://github.com/SiefEldinSameh/Dicom_Viewer.git
+[submodule "Organs_Classifier"]
+	path = Organs_Classifier
+	url = https://github.com/SiefEldinSameh/Organs_AI_Classifier.git
+[submodule "Image_Quality"]
+	path = Image_Quality
+	url = https://github.com/SiefEldinSameh/Image_Quality.git
