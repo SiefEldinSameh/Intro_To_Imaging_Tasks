@@ -1,0 +1,3 @@
+[submodule "MPR_Viewer"]
+	path = MPR_Viewer
+	url = https://github.com/SiefEldinSameh/MPR_Viewer.git
