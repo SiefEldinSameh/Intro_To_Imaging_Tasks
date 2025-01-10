@@ -16,3 +16,6 @@
 [submodule "Quantum_Vision"]
 	path = Quantum_Vision
 	url = https://github.com/SiefEldinSameh/Quantum_Vision_MRI.git
+[submodule "3D_Organ_Puzzle"]
+	path = 3D_Organ_Puzzle
+	url = https://github.com/SiefEldinSameh/3D_Organ_Puzzle.git
