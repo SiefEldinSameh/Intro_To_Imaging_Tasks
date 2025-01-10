@@ -13,3 +13,6 @@
 [submodule "Image_Quality"]
 	path = Image_Quality
 	url = https://github.com/SiefEldinSameh/Image_Quality.git
+[submodule "Quantum_Vision"]
+	path = Quantum_Vision
+	url = https://github.com/SiefEldinSameh/Quantum_Vision_MRI.git
